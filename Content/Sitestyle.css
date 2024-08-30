@@ -1,0 +1,33 @@
+﻿/* Sitestyle.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.form-horizontal {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.text-danger {
+    color: red;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.control-label {
+    font-weight: bold;
+}
+
+.btn-default {
+    background-color: #007bff;
+    color: white;
+}
+
+    .btn-default:hover {
+        background-color: #0056b3;
+    }
